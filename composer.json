@@ -1,0 +1,15 @@
+{
+    "name": "user03/soluciones_web-jj",
+    "description": "Soluciones web",
+    "autoload": {
+        "psr-4": {
+            "User03\\SolucionesWebJj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ore Parejas Juan Julian"
+        }
+    ],
+    "require": {}
+}
